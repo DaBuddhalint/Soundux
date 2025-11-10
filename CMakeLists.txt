@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.1)
+cmake_minimum_required(VERSION 3.5)
 project(soundux VERSION 0.2.8 DESCRIPTION "A crossplatform soundboard")
 
 set(FULL_VERSION_STRING "0.2.8")
